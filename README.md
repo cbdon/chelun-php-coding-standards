@@ -2,6 +2,10 @@
 
 Mainly use PSR2 coding standard.
 
+## Usage
+
+    phpcs --standard=/path/to/chelun-php-coding-standards-repo/Chelun SomeClass.php
+
 ## References
 
 - http://www.php-fig.org/psr/

@@ -10,7 +10,7 @@
  </rule>
 
  <!-- ALL braces MUST be on their own lines. -->
- <rule ref="Chelun.ControlStructures.OpeningBraceBsdAllman"/>
+ <rule ref="./Sniffs/ControlStructures/OpeningBraceBsdAllmanSniff.php"/>
  <!-- There MUST be one space between control structure and opening parenthesis -->
- <rule ref="Chelun.ControlStructures.OpeningParenthesis"/>
+ <rule ref="./Sniffs/ControlStructures/OpeningParenthesisSniff.php"/>
 </ruleset>
