@@ -1,9 +1,7 @@
 <?php
 
 /**
- * This file is part of Chelun coding standards.
- *
- * (c) chelun.com
+ * This file is part of Cyberbox coding standards.
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -21,7 +19,7 @@
  * Checks that there is exactly one space between the keyword and the opening
  * parenthesis of a control structures.
  */
-class Chelun_Sniffs_ControlStructures_OpeningParenthesisSniff implements PHP_CodeSniffer_Sniff
+class Cyberbox_Sniffs_ControlStructures_OpeningParenthesisSniff implements PHP_CodeSniffer_Sniff
 {
     /**
      * Registers the tokens that this sniff wants to listen for.

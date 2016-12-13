@@ -1,10 +1,10 @@
-# Chelun PHP Coding Standards for PHP_CodeSniffer
+# Cyberbox PHP Coding Standards for PHP_CodeSniffer
 
 Mainly use PSR2 coding standard.
 
 ## Usage
 
-    phpcs --standard=/path/to/chelun-php-coding-standards-repo/Chelun SomeClass.php
+    phpcs --standard=/path/to/cyberbox-php-coding-standards-repo/Cyberbox SomeClass.php
 
 ## References
 
